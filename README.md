@@ -3,6 +3,10 @@
 The NLP_Contract_Checker is a modular Python tool designed to automatically analyze, classify, and assess sections of contracts using natural language processing and large language models (LLMs). It supports web scraping, paragraph and section extraction, topic classification, and evaluation against user-defined compliance criteria.
 
 ---
+**Disclaimer**  
+This project was developed and executed on a MacBook Air (13", Apple M4, 2025) with 32 GB of memory.  
+Running the code on systems with lower specifications may lead to performance issues, especially during model training and inference.
+
 
 ## Repository Structure
 
